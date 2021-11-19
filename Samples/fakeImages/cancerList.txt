@@ -1,0 +1,12 @@
+testPositiveEP100/23fakePos.png
+testPositiveEP100/1295fakePos.png
+testPositiveEP100/1843fakePos.png
+testPositiveEP100/2320fakePos.png
+testPositiveEP100/3564fakePos.png
+testPositiveEP100/3917fakePos.png
+testPositiveEP100/4444fakePos.png
+testPositiveEP100/5760fakePos.png
+testPositiveEP100/6013fakePos.png
+testPositiveEP100/7265fakePos.png
+testPositiveEP100/8490fakePos.png
+testPositiveEP100/12156fakePos.png
